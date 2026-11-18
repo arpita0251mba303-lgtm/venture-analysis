@@ -1,0 +1,6 @@
+{
+  "name": "VENTURE IQ – AI Business Analyst",
+  "description": "Turn Business Ideas into Business Intelligence. AI-powered venture plan evaluation, financial modeling, market sizing, SWOT, risk assessment, and academic reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
